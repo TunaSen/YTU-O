@@ -1,0 +1,47 @@
+
+
+
+.card-body {
+  color: black; /* Set text color to black for all text inside the card-body */
+}
+
+.card-body .card-text {
+  color: black; /* Ensure text color is black for individual card-text elements */
+}
+
+.card-body .card-text strong {
+  color: black; /* Ensure labels (e.g., Name:, Surname:) are black */
+}
+
+.athlete-card {
+  border: 2px solid #007bff; /* Mavi kenar */
+  border-radius: 8px; /* Köşeleri yuvarlatma */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Hafif gölgeler */
+  transition: transform 0.2s, box-shadow 0.2s; /* Hover efekti için geçiş */
+  overflow: hidden; /* Taşan içerikleri gizle */
+}
+
+.athlete-card:hover {
+  transform: scale(1.05); /* Hover efektinde büyütme */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Hover efektinde daha belirgin gölge */
+}
+
+.athlete-card img {
+  border-bottom: 2px solid #007bff; /* Resmin altına mavi çizgi */
+  border-radius: 6px 6px 0 0; /* Resmin üst kenarlarını yuvarlama */
+}
+
+.card-body {
+  padding: 10px; /* İçeriğe biraz boşluk verin */
+}
+
+.card-text {
+  font-size: 14px; /* Daha küçük font */
+}
+
+.athlete-card img {
+  border-bottom: 2px solid #007bff; /* Resmin altına mavi çizgi */
+  border-radius: 6px 6px 0 0; /* Resmin üst kenarlarını yuvarlama */
+  width: 100%; /* Resmi kartın genişliği kadar yap */
+  max-height: 100%; /* Resmin maksimum yüksekliğini ayarla */
+}

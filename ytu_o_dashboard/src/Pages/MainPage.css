@@ -1,0 +1,8 @@
+/* In your MainPage.css */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&display=swap');
+
+.handwritten-title {
+    font-family: 'Dancing Script', cursive; /* Use the chosen font */
+    font-size: 4rem; /* Adjust the size as needed */
+  }
+  

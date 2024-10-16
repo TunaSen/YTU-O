@@ -1,0 +1,21 @@
+# Django
+*.pyc
+__pycache__/
+#db.sqlite3  # Eğer SQLite kullanıyorsanız
+#/media/     # Kullanıcı tarafından yüklenen dosyalar
+/env/       # Sanal ortam
+env/
+# React
+node_modules/
+dist/
+build/
+.vite/
+ytu_o_dashboard/dist
+ytu_o_dashboard/node_modules
+# Ortak
+*.log
+.env        # Ortam değişkenleri dosyası
+.DS_Store   # MacOS sistem dosyası
+.idea/      # PyCharm/IntelliJ dosyaları
+.vscode/    # Visual Studio
+ngrok.exe

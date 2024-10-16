@@ -1,0 +1,17 @@
+Yusuf Karahan,Tuna Şen,Yusuf Karahan,Gökay Günbak,özlem koç,Sıla Kaya,Devrim Nur Karaman
+Tuna Şen,Tuna Şen,Kayra Köklü,Gökay Günbak,gizem söyler,delal beçet,Sıla Kaya
+Muhammed Kağan Zor,Cemal Gül,Gökay Günbak,Yusuf Karahan,özlem koç,Meral Cincil,delal beçet
+Oğuzhan Aşcıoğlu,Tuna Şen,Gökay Günbak,Oğuzhan Aşcıoğlu,gizem söyler,Meral Cincil,delal beçet
+Cemal,Tuna Şen,Abdullah Keçeci,Gökay Günbak,delal beçet,Devrim Nur Karaman,gizem söyler
+Sıla Kaya,Tuna Şen,Gökay Günbak,Abdullah Keçeci,Devrim Nur Karaman,özlem koç,delal beçet
+Özlem,Muhammed Kağan Zor,Oğuzhan Aşcıoğlu,Gökay Günbak,Tuğçe Dinçtürk,gizem söyler,Sıla Kaya
+Meral Cincil,Tuna Şen,Gökay Günbak,Mustafa Bayrak,Meral Cincil,Sıla Kaya,gizem söyler
+Kayra Köklü,Gökay Günbak,Mustafa Bayrak,Tuna Şen,özlem koç,delal beçet,Tuğçe Dinçtürk
+Abdullah Keçeci,Cemal Gül,Abdullah Keçeci,Yusuf Karahan,özlem koç,Devrim Nur Karaman,delal beçet
+Gizosu,Tuna Şen,Abdullah Keçeci,Oğuzhan Aşcıoğlu,gizem söyler,delal beçet,Devrim Nur Karaman
+Gökay Günbak,Tuna Şen,Gökay Günbak,Abdullah Keçeci,özlem koç,delal beçet,Devrim Nur Karaman
+Tuğçe Yalankoz,Muhammed Kağan Zor,Abdullah Keçeci,Mustafa Bayrak,özlem koç,delal beçet,Sıla Kaya
+Devrim Nur Karaman,Tuna Şen,Oğuzhan Aşcıoğlu,Gökay Günbak,Tuğçe Yalankoz,delal beçet,Devrim Nur Karaman
+Dell Yeni,Cemal Gül,Abdullah Keçeci,Gökay Günbak,gizem söyler,delal beçet,Meral Cincil
+Enes Erkoç,Tuna Şen,Abdullah Keçeci,Gökay Günbak,özlem koç,Devrim Nur Karaman,delal beçet
+Tolga Öztürk,Tuna Şen,Oğuzhan Aşcıoğlu,Gökay Günbak,özlem koç,Meral Cincil,Sıla Kaya

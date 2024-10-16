@@ -1,0 +1,206 @@
+[
+    {
+      "name": "Sıla Kaya",
+      "team": [
+        "Tuna Şen",
+        "Gökay Günbak",
+        "Abdullah Keçeci",
+        "Devrim Nur Karaman",
+        "özlem koç",
+        "delal beçet"
+      ],
+      "point": 4508.054089703151    
+    },
+    {
+      "name": "Gökay Günbak",
+      "team": [
+        "Tuna Şen",
+        "Gökay Günbak",
+        "Abdullah Keçeci",
+        "özlem koç",
+        "delal beçet",
+        "Devrim Nur Karaman"
+      ],
+      "point": 4508.054089703151
+    },
+    {
+      "name": "Enes Erkoç",
+      "team": [
+        "Tuna Şen",
+        "Abdullah Keçeci",
+        "Gökay Günbak",
+        "özlem koç",
+        "Devrim Nur Karaman",
+        "delal beçet"
+      ],
+      "point": 4508.054089703151
+    },
+    {
+      "name": "Gizosu",
+      "team": [
+        "Tuna Şen",
+        "Abdullah Keçeci",
+        "Oğuzhan Aşcıoğlu",
+        "gizem söyler",
+        "delal beçet",
+        "Devrim Nur Karaman"
+      ],
+      "point": 4471.211720033963
+    },
+    {
+      "name": "Oğuzhan Aşcıoğlu",
+      "team": [
+        "Tuna Şen",
+        "Gökay Günbak",
+        "Oğuzhan Aşcıoğlu",
+        "gizem söyler",
+        "Meral Cincil",
+        "delal beçet"
+      ],
+      "point": 4437.122435332618
+    },
+    {
+      "name": "Abdullah Keçeci",
+      "team": [
+        "Cemal Gül",
+        "Abdullah Keçeci",
+        "Yusuf Karahan",
+        "özlem koç",
+        "Devrim Nur Karaman",
+        "delal beçet"
+      ],
+      "point": 4418.527353632314
+    },
+    {
+      "name": "Cemal",
+      "team": [
+        "Tuna Şen",
+        "Abdullah Keçeci",
+        "Gökay Günbak",
+        "delal beçet",
+        "Devrim Nur Karaman",
+        "gizem söyler"
+      ],
+      "point": 4397.0155527991665
+    },
+    {
+      "name": "Muhammed Kağan Zor",
+      "team": [
+        "Cemal Gül",
+        "Gökay Günbak",
+        "Yusuf Karahan",
+        "özlem koç",
+        "Meral Cincil",
+        "delal beçet"
+      ],
+      "point": 4384.438068930969
+    },
+    {
+      "name": "Dell Yeni",
+      "team": [
+        "Cemal Gül",
+        "Abdullah Keçeci",
+        "Gökay Günbak",
+        "gizem söyler",
+        "delal beçet",
+        "Meral Cincil"
+      ],
+      "point": 4242.298312799371
+    },
+    {
+      "name": "Kayra Köklü",
+      "team": [
+        "Gökay Günbak",
+        "Mustafa Bayrak",
+        "Tuna Şen",
+        "özlem koç",
+        "delal beçet",
+        "Tuğçe Dinçtürk"
+      ],
+      "point": 3984.1741400379506
+    },
+    {
+      "name": "Tolga Öztürk",
+      "team": [
+        "Tuna Şen",
+        "Oğuzhan Aşcıoğlu",
+        "Gökay Günbak",
+        "özlem koç",
+        "Meral Cincil",
+        "Sıla Kaya"
+      ],
+      "point": 3780.5354787227834
+    },
+    {
+      "name": "Yusuf Karahan",
+      "team": [
+        "Tuna Şen",
+        "Yusuf Karahan",
+        "Gökay Günbak",
+        "özlem koç",
+        "Sıla Kaya",
+        "Devrim Nur Karaman"
+      ],
+      "point": 3771.5298154169454
+    },
+    {
+      "name": "Tuna Şen",
+      "team": [
+        "Tuna Şen",
+        "Kayra Köklü",
+        "Gökay Günbak",
+        "gizem söyler",
+        "delal beçet",
+        "Sıla Kaya"
+      ],
+      "point": 3760.7787767520385
+    },
+    {
+      "name": "Özlem",
+      "team": [
+        "Muhammed Kağan Zor",
+        "Oğuzhan Aşcıoğlu",
+        "Gökay Günbak",
+        "Tuğçe Dinçtürk",
+        "gizem söyler",
+        "Sıla Kaya"
+      ],
+      "point": 3598.868703172221
+    },
+    {
+      "name": "Devrim Nur Karaman",
+      "team": [
+        "Tuna Şen",
+        "Oğuzhan Aşcıoğlu",
+        "Gökay Günbak",
+        "Tuğçe Yalankoz",
+        "delal beçet",
+        "Devrim Nur Karaman"
+      ],
+      "point": 3548.160972236602
+    },
+    {
+      "name": "Tuğçe Yalankoz",
+      "team": [
+        "Muhammed Kağan Zor",
+        "Abdullah Keçeci",
+        "Mustafa Bayrak",
+        "özlem koç",
+        "delal beçet",
+        "Sıla Kaya"
+      ],
+      "point": 3054.0626526247206
+    },
+    {
+      "name": "Meral Cincil",
+      "team": [
+        "Tuna Şen",
+        "Gökay Günbak",
+        "Mustafa Bayrak",
+        "Meral Cincil",
+        "Sıla Kaya",
+        "gizem söyler"
+      ],
+      "point": 2979.5630696659705
+    }
+  ]

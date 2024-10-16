@@ -1,0 +1,86 @@
+/* General container styling */
+.container {
+    background-color: #f8f9fa; /* Light background for better readability */
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Title and description styling */
+.display-4 {
+    color: #000000; /* Black text color */
+    font-weight: 700;
+}
+
+.lead {
+    color: #000000; /* Black text color */
+}
+
+/* Game details section styling */
+.list-group-item {
+    background-color: #ffffff;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+    margin-bottom: 8px;
+}
+
+.list-group-item strong {
+    color: #000000; /* Black text color */
+}
+
+/* Players section styling */
+ul.list-group {
+    padding-left: 0;
+}
+
+/* Improved spacing and look for the list */
+.list-group-item {
+    margin-bottom: 10px;
+    padding: 15px;
+}
+
+/* Runners table styling */
+.table {
+    margin-top: 20px;
+}
+
+.table th,
+.table td {
+    text-align: center;
+    color: #000000; /* Black text color */
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #f2f2f2;
+}
+
+/* Contact form styling */
+.form-label {
+    color: #000000; /* Black text color */
+}
+
+.form-control {
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* Error message styling */
+.text-danger {
+    color: #dc3545;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .container {
+        padding: 15px;
+    }
+
+    .display-4 {
+        font-size: 2rem;
+    }
+
+    .card-body {
+        padding: 15px;
+    }
+}
