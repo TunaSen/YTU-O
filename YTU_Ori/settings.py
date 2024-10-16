@@ -42,7 +42,8 @@ INSTALLED_APPS = [
     'rest_framework',
     'corsheaders',
     'Management',
-    'rest_framework.authtoken'
+    'rest_framework.authtoken',
+    'Events'
 ]
 
 MIDDLEWARE = [

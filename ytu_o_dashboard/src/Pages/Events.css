@@ -1,0 +1,21 @@
+/* styles.css */
+
+/* Genel Container Stil */
+.Events {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Takvim konteyneri için stil */
+.calendar-container {
+  padding-left: 70px;
+  padding-right: 40px;
+  background-color: #fff;
+  
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  height: 80vh; /* Takvim yüksekliğini ayarlayın */
+}
+
+
+
